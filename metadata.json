@@ -1,0 +1,5 @@
+{
+  "name": "Escrow App",
+  "description": "A React-based admin dashboard for managing transactions and resolving disputes in an M-Pesa integrated escrow application. This dashboard provides a clear overview of all activities, allowing administrators to monitor payments, handle conflicts, and ensure the smooth operation of the escrow service.",
+  "requestFramePermissions": []
+}
